@@ -10,16 +10,20 @@
 
 <table>
   <tr>
-    <th>Berlin</th>
-    <th>Hamburg</th>
+    <th>APP</th>
+    <th>Nutzen</th>
   </tr>
   <tr>
-    <td>Kiez</td>
-    <td>Bierdampf</td>
+    <td>PPSPY</td>
+    <td>Zuständig für das Tracken der Produkte </td>
    </tr>
    <tr>
-     <td>Frikadellen</td>
-     <td>Fleischpflanzerl</td>
+     <td>Facebook Ads Manager</td>
+     <td>Zuständig um Shops zu suchen, die viel Umsatz generieren</td>
+   </tr>
+     <tr>
+     <td>Shopify</td>
+     <td>Wird genutzt um Domäne zu erstellen, Webshop zu erstellen, Produkte importieren </td>
    </tr>
 </table>
 
