@@ -20,7 +20,8 @@
      <td>Wird genutzt um Domäne zu erstellen, Webshop zu erstellen, Produkte importieren </td>
    </tr>
 </table>
----------
+
+***
 
 ## Produkte importieren (Shopify)
 1. Produkt von anderem Shop anwählen
